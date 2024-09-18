@@ -1,1 +1,2 @@
 wdio saucedemo
+test git
